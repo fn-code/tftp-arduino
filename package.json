@@ -1,0 +1,24 @@
+{
+  "name": "tftp-arduino",
+  "version": "1.0.0",
+  "description": "this is a arduino with tftp transfer file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fn-code"
+  },
+  "keywords": [
+    "tftp-arduino",
+    "tftp",
+    "arduino"
+  ],
+  "author": "Ludin Nento",
+  "license": "ISC",
+  "dependencies": {
+    "tftp": "^0.1.2",
+    "tftp-client": "^0.2.1"
+  }
+}
