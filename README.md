@@ -1,2 +1,2 @@
 # tftp-arduino
-Upload program to arduino using tftp protocol
+Example of upload program to arduino using tftp protocol, using custom arduino firmware
